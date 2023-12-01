@@ -1,3 +1,4 @@
 # CO1111
 The Computing Challenge project page
-Cool Stuff!
+Very Cool Stuff!
+Experiencing the WebStorm support for Git
